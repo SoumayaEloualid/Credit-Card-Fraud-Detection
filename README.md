@@ -1,6 +1,7 @@
 # Credit-Card-Fraud-Detection
 
 This project focuses on detecting fraudulent transactions from credit card data. It implements multiple machine learning models to classify transactions as either `Fraud` or `Not Fraud` and compares their performances.
+
 ![image](https://github.com/user-attachments/assets/8bc8e799-346d-4a37-91e9-632b09067fcc)
 
 
