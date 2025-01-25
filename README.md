@@ -112,12 +112,10 @@ Implemented the following models:
 | Random Forest          | 1.00              | 0.54           | 0.70             | 0.77     |
 | Gradient Boosting (GBC)| 1.00              | 0.76           | 0.86             | 0.88     |
 | Linear SVC             | 1.00              | 0.87           | 0.93             | 0.94     |
-| Shallow Neural Network | 0.93              | 0.91           | 0.92             | 0.92     |
+
 
 ### Key Insights
 - **Linear SVC** performed the best overall with an F1-score of **0.93** for Fraud.
-- **Shallow Neural Network** also showed strong, balanced performance.
-- Models like Logistic Regression struggled with recall for the Fraud class.
 
 ---
 
@@ -134,7 +132,7 @@ Implemented the following models:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/SoumayaEloualid/Credit-Card-Fraud-Detection.git)
    ```
 2. Install dependencies:
    ```bash
