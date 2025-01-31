@@ -135,7 +135,7 @@ Implemented the following models:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/SoumayaEloualid/Credit-Card-Fraud-Detection.git)
+   git clone https://github.com/SoumayaEloualid/Credit-Card-Fraud-Detection.git
    ```
 2. Install dependencies:
    ```bash
